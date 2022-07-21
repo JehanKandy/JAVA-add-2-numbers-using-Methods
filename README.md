@@ -40,3 +40,6 @@ JAVA use java Methods for add 2 numbers
     import java.util.Scanner;
     
 java Scanner, we can use for get user inputs        
+
+<br><br>
+<b>Public and Static Methods..!</b>
