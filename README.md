@@ -43,3 +43,7 @@ java Scanner, we can use for get user inputs
 
 <br><br>
 <b>Public and Static Methods..!</b>
+<br>
+<b>Static Methods</b>
+<br>
+Static methods can be called without creating objects
