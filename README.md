@@ -45,3 +45,10 @@ JAVA use java Methods for add 2 numbers
                 calNum.cal_numbers(getNum1, getNum2);
             }
         }
+
+
+<b>Import Java Scanner</b>
+
+    import java.util.Scanner;
+    
+java Scanner, we can use for get user inputs        
