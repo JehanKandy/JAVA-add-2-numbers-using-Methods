@@ -50,3 +50,7 @@ Static methods can be called without creating objects
 <br><br>
 
 if we need to create objects in method we have to use <b>Public Method</b>
+
+
+By JEHAN KANDY <br>
+Thank you
