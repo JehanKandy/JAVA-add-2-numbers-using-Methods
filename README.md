@@ -17,7 +17,6 @@ JAVA use java Methods for add 2 numbers
 
             public static void main(String[] args) {
                 //now call the above created method
-                //Msg();
 
                 Cal calNum = new Cal();
                 Scanner GetNumbers = new Scanner(System.in);
