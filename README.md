@@ -42,4 +42,4 @@ JAVA use java Methods for add 2 numbers
 java Scanner, we can use for get user inputs        
 
 <br><br>
-<b>Public and Statuc Methods..!</b>
+<b>Public and Static Methods..!</b>
