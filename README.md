@@ -8,18 +8,7 @@ JAVA use java Methods for add 2 numbers
 
         //create class for Cal
         public class Cal{
-            //create a method of get messages
-            /*
-            static void Msg(){
-                //create a aboject in Scanner 
-                Scanner Msgget = new Scanner(System.in);
-
-                System.out.println("Enter First Number : ");
-                int num = Msgget.nextInt();
-                System.out.println("First Name is " + fname);              
-            }*/
-
-            public void cal_numbers(int num1, int num2){
+           public void cal_numbers(int num1, int num2){
                 //num1 and num2 form user input numbers and the add all 2 numnbers
                 System.out.println("Total is : "+ (num1 + num2));
             }
